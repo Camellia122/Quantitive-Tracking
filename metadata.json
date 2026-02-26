@@ -1,0 +1,5 @@
+{
+  "name": "量化跟踪自动化系统",
+  "description": "基于WIND/IFIND双数据源的宏观经济、权益市场、固定收益、商品市场、资金面等多维度数据的实时采集、自动计算与可视化展示系统。",
+  "requestFramePermissions": []
+}
